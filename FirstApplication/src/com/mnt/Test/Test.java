@@ -6,7 +6,7 @@ public class Test
  {
 
     System.out.println("this is the modification done by DEV");	
-    System.out.println("this is the output from the test class");
+    System.out.println("this is the output from the test classs");
 
 }
 }
