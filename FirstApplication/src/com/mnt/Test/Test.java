@@ -8,5 +8,6 @@ public static void main(String[] args)
 {
     SimpleCode sc=new SimpleCode();
     sc.getOutput();
+    System.out.println("this is the developer code");
 }
 }
